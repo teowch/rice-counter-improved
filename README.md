@@ -1,1 +1,1 @@
-# Rice Counter Remastered
+# Rice Counter Improved
